@@ -1,12 +1,15 @@
-random-messages
-Whenever I start a new project, I don't know what to write for the first commit. After doing a “git init” there is technically nothing there...
+# random-messages
+> Descubre nombres ocultos en tu terminal
 
-Install
-npm install -g random-msg
-Usage
-random-msg
-Contributing
-If someone wants to add or improve something, I invite you to collaborate directly in this repository: random-msg
+## Install
+> npm install -g random-msg
 
-License
-random-msg is released under the MIT License.
+## Usage
+> random-msg
+
+# Contributing
+
+*If Someone Wants To Add Or Improve Something, I Invite You To Collaborate Directly In This Repository: Random-Msg*
+
+## License
+##### random-msg is released under the MIT License.
