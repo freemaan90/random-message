@@ -1,16 +1,12 @@
 {
 	"name": "@freemaan90/randommsg",
 	"version": "1.0.0",
-	"description": "random de mensajes",
+	"description": "Discover hidden names on the terminal",
 	"main": "src/index.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
-	"keywords": [
-		"javascript",
-		"node",
-		"npm"
-	],
+	"keywords": [ "javascript", "node", "npm" ],
 	"author": "Frederico Zanoni Ruiz <fredericozanoni@gmail.com>",
 	"license": "MIT",
 	"bin": {
